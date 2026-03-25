@@ -1,0 +1,39 @@
+{
+  "root": "./",
+  "docsPath": "",
+  "structure": {
+    "docsTree": [
+      {
+        "categoryName": "Broken-file.md",
+        "isCategory": false,
+        "path": "broken-file.md",
+        "children": []
+      },
+      {
+        "categoryName": "Corrupted-table.md",
+        "isCategory": false,
+        "path": "corrupted-table.md",
+        "children": []
+      },
+      {
+        "categoryName": "File-one.md",
+        "isCategory": false,
+        "path": "file-one.md",
+        "children": []
+      },
+      {
+        "categoryName": "File-two.md",
+        "isCategory": false,
+        "path": "file-two.md",
+        "children": []
+      },
+      {
+        "categoryName": "Shadow Docs",
+        "isCategory": true,
+        "children": [],
+        "isShadowDocs": true
+      }
+    ],
+    "assets": "assets/"
+  }
+}

@@ -1,12 +1,13 @@
-# Corrupted Table Test
+---
+title: Corrupted Table Test
+docTags: 
+createdAt: Wed Mar 25 2026 14:38:39 GMT+0000 (Coordinated Universal Time)
+updatedAt: Wed Mar 25 2026 14:38:58 GMT+0000 (Coordinated Universal Time)
+---
 
 dsvdddddddda
 
-<table isTableHeaderOn="true" columnWidths="[object Object]">
-  <tr>
-    <td colSpan="3" rowSpan="1">
-    </td>
-  </tr>
+<table isTableHeaderOn="true" columnWidths="220,220,221">
   <tr>
     <td>
     </td>
@@ -20,8 +21,6 @@ dsvdddddddda
   <tr>
     <td colSpan="3" rowSpan="1">
       <p>3</p>
-    </td>
-    <td lightBackgroundColor="#15803D">
       <p>4</p>
     </td>
   </tr>
@@ -29,6 +28,7 @@ dsvdddddddda
     <td colSpan="1" rowSpan="1">
     </td>
     <td colSpan="1" rowSpan="1">
+      <h1>7</h1>
     </td>
     <td colSpan="1" rowSpan="2">
       <p>csac</p>
@@ -40,23 +40,11 @@ dsvdddddddda
       <p>6</p>
     </td>
     <td>
-    </td>
-    <td>
-      <h1>7</h1>
-    </td>
-    <td>
-    </td>
-    <td>
-    </td>
-    <td>
-    </td>
-    <td>
       <p>8</p>
     </td>
   </tr>
 </table>
 
-
+# 7
 
 un tabela
-
