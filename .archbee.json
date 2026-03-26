@@ -32,6 +32,18 @@
         "children": []
       },
       {
+        "categoryName": "Scalar-example.md",
+        "isCategory": false,
+        "path": "scalar-example.md",
+        "children": []
+      },
+      {
+        "categoryName": "Simple-doc.md",
+        "isCategory": false,
+        "path": "simple-doc.md",
+        "children": []
+      },
+      {
         "categoryName": "Shadow Docs",
         "isCategory": true,
         "children": [],
